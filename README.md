@@ -20,20 +20,27 @@ Answer the following questions with your group:
 Create the basic frontend file setup in a new folder. You should have:
 
 - an html file `index.html` with a header and a paragraph
-- a css file `style.css` with a single rule changing something about the display of the elements
+- a css file `style.css` with a single rule changing something about the display
+  of the elements
 - a js file `index.js` with a single statement logging "Hello, world" to the console
 - tags linking the css and the javascript into your html file
 
-Open the index.html file and verify that the CSS and JS are linked to your files and running.
+Open the index.html file and verify that the CSS and JS are linked to your files
+and running.
 
 ## Group Exploration: Chrome DevTools
 
-Chrome's Developer Tools are powerful tools for inspecting and debugging frontend applications. With your group, explore the DevTools for your new frontend project and answer the following questions:
+Chrome's Developer Tools are powerful tools for inspecting and debugging
+frontend applications. With your group, explore the DevTools for your new
+frontend project and answer the following questions:
 
 - How do you open the Developer Tools?
-- How do you log different values from your JavaScript program to the Console tab? How do you log multiple values at once?
+- How do you log different values from your JavaScript program to the Console
+  tab? How do you log multiple values at once?
 - How do you use JavaScript's `debugger` keyword?
 - How do you highlight an element in the DOM from the Elements tab?
-- How do you find the DOM representation of an element that's displayed on the page? (Hint: Check the mouse-in-square button in the top navigation bar of the DevTools)
+- How do you find the DOM representation of an element that's displayed on the
+  page? (Hint: Check the mouse-in-square button in the top navigation bar of the
+  DevTools)
 - How do you change the content that appears on the page using the Elements tab?
 - What do each of the Elements, Console, Sources, and Network tabs show you?
